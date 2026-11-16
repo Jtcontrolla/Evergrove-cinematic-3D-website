@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+*.log
+.vercel
+.env*
+
+# Local tool settings
+.claude/
+
+# Design-research screenshots of third-party sites (not for publication)
+assets/references/

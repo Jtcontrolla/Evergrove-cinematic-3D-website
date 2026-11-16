@@ -1,0 +1,212 @@
+{
+  "_note": "EVERGROVE image selection. Source: Unsplash (Unsplash License — free for commercial use, no attribution required; Unsplash+ images excluded). Each entry is downloaded by scripts/fetch-images.mjs as WebP at the listed widths.",
+  "sizes": {
+    "full": [
+      1280,
+      1920,
+      2560
+    ],
+    "card": [
+      640,
+      1024,
+      1600
+    ]
+  },
+  "images": {
+    "hero": {
+      "id": "1760972543739-c1a033671d64",
+      "path": "hero/villa-formal-gardens-cypress-aerial",
+      "size": "full",
+      "alt": "Aerial view of a grand villa framed by formal parterre gardens, cypress trees and mature woodland",
+      "focus": "50% 45%"
+    },
+    "worldTropical": {
+      "id": "1470058869958-2a77ade41c02",
+      "path": "world/tropical-garden-canopy",
+      "size": "full",
+      "alt": "Layered tropical garden canopy of palms and broad-leaved foliage",
+      "focus": "50% 30%"
+    },
+    "worldTrees": {
+      "id": "1761419772686-6d23f48ee973",
+      "path": "world/mature-oak-trees-lawn",
+      "size": "card",
+      "alt": "Majestic mature oak trees with sprawling branches over a sunlit lawn"
+    },
+    "worldLawn": {
+      "id": "1642541744624-7a2a89545a32",
+      "path": "world/striped-lawn-hedge-avenue",
+      "size": "card",
+      "alt": "Striped lawn avenue between clipped yew hedges leading to a garden pavilion"
+    },
+    "worldExotic": {
+      "id": "1769241537215-f6053148b398",
+      "path": "world/monstera-leaf-macro",
+      "size": "card",
+      "alt": "Close-up of a fenestrated monstera leaf"
+    },
+    "worldResidence": {
+      "id": "1689700366803-d071ea93d864",
+      "path": "world/residence-lily-pond-garden",
+      "size": "card",
+      "alt": "Residence overlooking a circular lily pond within a lush tropical garden"
+    },
+    "bermuda": {
+      "id": "1719536753784-bd0881701b1a",
+      "path": "collections/bermuda-grass-fine-lawn",
+      "size": "card",
+      "alt": "Fine-bladed, dense Bermuda-style lawn seen from above"
+    },
+    "zoysia": {
+      "id": "1540470174401-f25e9eb17c1c",
+      "path": "collections/zoysia-grass-dense-carpet",
+      "size": "card",
+      "alt": "Low view across a dense, carpet-like lawn"
+    },
+    "kikuyu": {
+      "id": "1764969370921-7c8df49171cd",
+      "path": "collections/kikuyu-grass-mown-garden-lawn",
+      "size": "card",
+      "alt": "Freshly mown, lush lawn stretching through a large sunny garden"
+    },
+    "fescue": {
+      "id": "1606823763622-bc22e109414e",
+      "path": "collections/fescue-grass-shaded-lawn",
+      "size": "card",
+      "alt": "Soft lawn growing in the dappled shade of mature trees"
+    },
+    "staugustine": {
+      "id": "1627615731812-518870a3c0da",
+      "path": "collections/st-augustine-tropical-pool-lawn",
+      "size": "card",
+      "alt": "Aerial view of a broad tropical lawn and palms beside a villa pool"
+    },
+    "artificial": {
+      "id": "1783125127243-49158bb610a5",
+      "path": "collections/artificial-turf-modern-villa",
+      "size": "card",
+      "alt": "Always-green artificial turf lawn wrapping a contemporary villa and pool"
+    },
+    "exotic": {
+      "id": "1711288889145-46a79c570e53",
+      "path": "collections/exotic-plants-alocasia",
+      "size": "card",
+      "alt": "Statement alocasia leaves with white veins among layered exotic foliage"
+    },
+    "ornamental": {
+      "id": "1746524795709-f40e7a96fd5d",
+      "path": "collections/ornamental-japanese-maple",
+      "size": "card",
+      "alt": "Red Japanese maple framing a stone lantern in a quiet garden"
+    },
+    "palms": {
+      "id": "1780865155845-37bc966940ae",
+      "path": "collections/premium-palms-lawn",
+      "size": "card",
+      "alt": "Tall palms rising above a sunlit green lawn"
+    },
+    "landMansion": {
+      "id": "1787237819544-39f0d4dac2b1",
+      "path": "landscape/estate-pool-lawn-dusk",
+      "size": "full",
+      "alt": "Country estate at dusk with a pool set into broad lawns and woodland"
+    },
+    "landModern": {
+      "id": "1786581810436-4681aa71d86c",
+      "path": "landscape/modern-garden-reflecting-pool",
+      "size": "full",
+      "alt": "Modern architectural garden with a sculpted pine above a reflecting pool"
+    },
+    "landPool": {
+      "id": "1775923293081-598283c494bc",
+      "path": "landscape/pool-cypress-garden-view",
+      "size": "full",
+      "alt": "Pool framed by cypress trees and lawns, seen through open villa windows",
+      "focus": "50% 70%"
+    },
+    "landRooftop": {
+      "id": "1769690093863-4f2a3fd17dd2",
+      "path": "landscape/rooftop-garden-olive-trees",
+      "size": "full",
+      "alt": "Rooftop garden planted with olive trees and layered beds above the city"
+    },
+    "landGreenWall": {
+      "id": "1774440602181-a8f2d598c04f",
+      "path": "landscape/living-green-wall",
+      "size": "full",
+      "alt": "Floor-to-ceiling living green wall under dramatic architectural lighting"
+    },
+    "landOutdoor": {
+      "id": "1786555964679-28c9f820e55b",
+      "path": "landscape/outdoor-living-terrace-palms",
+      "size": "full",
+      "alt": "Outdoor living terrace with woven lounge chairs surrounded by palms and planting"
+    },
+    "svcLandscaping": {
+      "id": "1734079692160-fcbe4be6ab96",
+      "path": "services/landscaping-crew-garden-build",
+      "size": "card",
+      "alt": "Landscaping crew at work in a garden with a wheelbarrow"
+    },
+    "svcTurf": {
+      "id": "1734079692079-aae7e24a7035",
+      "path": "services/turf-installation-hands",
+      "size": "card",
+      "alt": "Hands pressing freshly laid turf into place"
+    },
+    "svcDesign": {
+      "id": "1765063241757-7b59a24fb5bd",
+      "path": "services/garden-design-formal-reflecting-pool",
+      "size": "card",
+      "alt": "Designed formal garden with geometric beds and a reflecting pool"
+    },
+    "svcSupply": {
+      "id": "1784558822838-8018943f57c5",
+      "path": "services/plant-tree-nursery-greenhouse",
+      "size": "card",
+      "alt": "Greenhouse nursery stocked with palms, trees and plants ready for delivery"
+    },
+    "svcGreenWall": {
+      "id": "1761971975065-8e1fcf101303",
+      "path": "services/green-wall-interior-lobby",
+      "size": "card",
+      "alt": "Vertical garden installed in a light-filled modern interior"
+    },
+    "svcMaintenance": {
+      "id": "1501520158826-76df880863a3",
+      "path": "services/lawn-mowing-striped-aerial",
+      "size": "card",
+      "alt": "Aerial view of a groundskeeper mowing precise stripes into a lawn"
+    },
+    "projVilla": {
+      "id": "1780914071879-082812cf4971",
+      "path": "projects/terraced-villa-garden",
+      "size": "card",
+      "alt": "Terraced stone walls planted with lush greenery on a hillside"
+    },
+    "projCourtyard": {
+      "id": "1758450399245-0e1c5d4c2536",
+      "path": "projects/courtyard-garden-modern",
+      "size": "card",
+      "alt": "Modern courtyard garden with lawn, stone wall and sculptural seating"
+    },
+    "projEstate": {
+      "id": "1668120089662-42642838cfef",
+      "path": "projects/estate-lawns-specimen-planting",
+      "size": "card",
+      "alt": "Broad estate lawns with sculpted shrubs and specimen trees"
+    },
+    "projRooftop": {
+      "id": "1758193431353-87812fbff5cd",
+      "path": "projects/penthouse-rooftop-terrace-lawn",
+      "size": "card",
+      "alt": "Penthouse rooftop terrace with a lawn strip, lounge seating and skyline views"
+    },
+    "ctaBackdrop": {
+      "id": "1788453747591-d4c8622f3168",
+      "path": "closing/misty-forest-edge-dawn",
+      "size": "full",
+      "alt": "Morning mist drifting through a forest edge above open grass"
+    }
+  }
+}
